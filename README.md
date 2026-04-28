@@ -1,0 +1,1 @@
+This project presents a smart baby walker system designed to enhance child safety by preventing falls from edges such as stairs. The system uses an ultrasonic sensor to detect sudden drops in distance (edges), and automatically stops the motor when a potential fall is detected.
